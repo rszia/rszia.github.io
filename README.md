@@ -1,2 +1,0 @@
-# rszia.github.io
-test
