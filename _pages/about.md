@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -22,4 +22,5 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Hi, I am a master's student in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/?locale=en) at [National Taiwan University](https://www.ntu.edu.tw/english/). My research interests lie in the union of Natural Language Processing and Computational Linguistics.
